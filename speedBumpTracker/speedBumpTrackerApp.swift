@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct speedBumpTrackerApp: App {
+struct SpeedBumpTrackerApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
